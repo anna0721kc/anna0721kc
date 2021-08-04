@@ -1,1 +1,1 @@
-ABCDEFG
+ABC
